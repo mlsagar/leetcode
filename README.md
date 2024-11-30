@@ -1,2 +1,2 @@
 # leetcode
-practice leetcode problems
+practice leetcode problems with editorial explanation
