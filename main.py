@@ -1,5 +1,5 @@
-from two_pointers.problem11_container_with_most_water.approach2 import Solution
+from two_pointers.problem15_3sum.approach3 import Solution
 
 solution = Solution()
-height = [1,8,6,2,5,4,8,3,7]
-print(solution.maxArea(height))
+height = [-1,0,1,2,-1,-4]
+print(solution.threeSum(height))
