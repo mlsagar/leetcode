@@ -1,5 +1,6 @@
-from two_pointers.problem15_3sum.approach3 import Solution
+from two_pointers.problem18_4sum.approach1 import Solution
 
 solution = Solution()
-height = [-1,0,1,2,-1,-4]
-print(solution.threeSum(height))
+nums = [1,0,-1,0,-2,2]
+target = 0
+print(solution.fourSum(nums, target))
