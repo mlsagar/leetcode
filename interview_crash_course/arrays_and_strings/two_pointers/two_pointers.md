@@ -1,4 +1,5 @@
-# First Approach
+# First Approach Pseudo Code
+> Start the pointers at the edge of input. Move them towards each other until they meet.
 ```
 def fn(arr):
     left = 0
@@ -11,3 +12,5 @@ def fn(arr):
             2. right -= 1
             3. Both left += 1 and right -= 1
 ```
+
+# Second Approach Pseudo Code
